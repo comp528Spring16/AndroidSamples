@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">IntentsSample</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_next">Next Page</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="backButton">Back</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="button_maps">Maps</string>
+    <string name="btZoomIn">Zoom In</string>
+    <string name="btZoomOut">Zoom Out</string>
+    <string name="btUnic">UNic</string>
+    <string name="btRSquare">Red Square</string>
+    <string name="btNavUnic">Navigate ti Unic</string>
+    <string name="title_activity_maps2">Map</string>
+    <string name="maps2">Maps 2</string>
+    <string name="goUnic">Go UNic</string>
+    <string name="goRedSquare">Go Read Square</string>
+</resources>
